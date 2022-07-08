@@ -1,0 +1,5 @@
+- # Sobre mim
+- 👋 Òla meu nome é @lekaperfeita123.
+- 👍 Meu email de contato é leticia.silva.lisboa@escola.pr.gov.br.
+- 👀 Eu estou interresado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
